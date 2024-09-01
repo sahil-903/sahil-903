@@ -1,7 +1,8 @@
 ### Hi there i am Sahil 👋
 
 
-- 🌱 I’m currently learning Blockchain Development.
+- 🌱 As a Blockchain Developer with extensive experience in smart contracts, I excel in developing, maintaining, and testing blockchain products. I stay current with the latest technologies to design effective solutions and am eager to take on new challenges.
+- 🌱 Skills: Solidity · etherjs · hardhat · Web3 · Node.js · the graph · JavaScript · Blockchain · MongoDB · REST APIs · GraphQL · TypeScript · Data structures · Algorithms
 - 🌱 I am a competitive programmer.
 - 🌱 ICPC Regionalist 2020
 • 🌱 5 Star at Codechef Highest rating- 2008.
